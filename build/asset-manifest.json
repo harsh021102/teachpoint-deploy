@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15ec3c95.css",
+    "main.js": "/static/js/main.938c8054.js",
+    "static/js/787.180f6fe7.chunk.js": "/static/js/787.180f6fe7.chunk.js",
+    "static/media/Mathematics.gif": "/static/media/Mathematics.256fc72f2ab42a2104c1.gif",
+    "static/media/leader.jpeg": "/static/media/leader.e32d5b01bb0ba3c80239.jpeg",
+    "static/media/class.svg": "/static/media/class.e01434330b8752b8480139c9a1a8f048.svg",
+    "static/media/nndn.jpeg": "/static/media/nndn.9a67d224e69edcf09403.jpeg",
+    "static/media/hp.jpeg": "/static/media/hp.5c9b89a7ef0197f4e526.jpeg",
+    "static/media/practice.png": "/static/media/practice.4c00c93d3f307c0e9985.png",
+    "static/media/schedule.png": "/static/media/schedule.fd274cacdde7b1717ee6.png",
+    "static/media/recording.png": "/static/media/recording.bbb040caa8dcec3365f2.png",
+    "static/media/girl.png": "/static/media/girl.4f13e2aebfe74e153a08.png",
+    "static/media/book.png": "/static/media/book.c2e53572742f5ea78d88.png",
+    "static/media/hat.png": "/static/media/hat.1f791e57a24efafbfcc8.png",
+    "index.html": "/index.html",
+    "main.15ec3c95.css.map": "/static/css/main.15ec3c95.css.map",
+    "main.938c8054.js.map": "/static/js/main.938c8054.js.map",
+    "787.180f6fe7.chunk.js.map": "/static/js/787.180f6fe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ec3c95.css",
+    "static/js/main.938c8054.js"
+  ]
+}
